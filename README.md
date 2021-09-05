@@ -1,9 +1,10 @@
 # Generic-Library
-This library created in C Language .
-It includes dataStructure like SinglyLinkedList,DoublyLinkedList,AVLTree,Stack,Queue,Priority_queue.
-You can include all the header file like other.
-For example someone wants to use AVLTree then  simply include header file of AVLTree (#include<AVLTree.h>)
-If You are working on a Project in C language Then it will be very helpfull for you.
-With the help of this library you can easily undestand the internal concept of STL (c++) how STL works in cpp.
-It really helpful for those who are working in c project because if you are working in a project in c langugage and if you want to use Data Strucuture then you have to write code from scratch for it .
+Generic Library inspired by STL in C++.
+Language used:-C programming
+Key Features:- It includes  Data Structure like SinglyLinkedList,DoublyLinkedList,Stack,Queue,Priority_queue,AVL Tree.
+It is useful for a user who are working on C project.
+In C++,With the help of STL we can use all the data structure directly but in C we need to write code from scratch.
+But including this Generic Library We don't need to write code from scratch.
+For example if we want to use Stack then simply include stack.h header file like stdio.h .
+
 
